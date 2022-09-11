@@ -9,7 +9,9 @@
 
 - 👯 I’m looking to collaborate on tech startups and non-profits.
 
-- 💬 Ask me about data engineering, social entrepreneurship, education non-profits.
+- 💬 Ask me about data engineering, data science, social entrepreneurship and non-profits.
+
+- 🏠 My personal website: https://www.henrihapponen.com
 
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/henrihapponen/
 

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about data engineering, social entrepreneurship, education non-profits.
 
-- 📫 Connect with me on LinkedIn: (https://www.linkedin.com/in/henrihapponen/ "LinkedIn Profile")
+- 📫 Connect with me on LinkedIn: ["me"]: https://www.linkedin.com/in/henrihapponen/
 
 ---
 

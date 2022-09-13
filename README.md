@@ -4,14 +4,15 @@
 
 <h3 align="center">Data Engineer @ Expedia</h3>
 <h3 align="center">Tech Lead @ Project Access</h3>
+<h3 align="center">General Tech Enthusiast</h3>
 
 <br/>
 
-- 👯 I’m looking to collaborate on tech startups and non-profits.
+- 👯 Looking to collaborate on tech startups and non-profits.
 
 - 💬 Ask me about data engineering, data science, social entrepreneurship and non-profits.
 
-- 🏠 My personal website: https://www.henrihapponen.com
+- 🏠 Personal website: https://www.henrihapponen.com
 
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/henrihapponen/
 

@@ -4,7 +4,6 @@
 
 <h3 align="center">Data Engineer @ Expedia</h3>
 <h3 align="center">Tech Lead @ Project Access</h3>
-<h3 align="center">General Tech Enthusiast</h3>
 
 <br/>
 

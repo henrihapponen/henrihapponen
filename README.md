@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🖐 Looking to collaborate on interesting projects!
+- 🖐 Always looking to collaborate on interesting projects!
 
 - 💬 Ask me about data engineering, data science, social entrepreneurship and non-profits.
 

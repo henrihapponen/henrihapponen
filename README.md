@@ -8,8 +8,6 @@
 
 - 🖐 Always looking to collaborate on interesting projects!
 
-- 💬 Ask me about data engineering, data science, social entrepreneurship and non-profits.
-
 - 🏠 Personal website: https://www.henrihapponen.com
 
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/henrihapponen/

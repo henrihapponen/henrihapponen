@@ -8,7 +8,7 @@
 
 - 🖐 Always looking to collaborate on interesting projects!
 
-- 🎾 Currently building https:/www.playskan.com 
+- 🎾 Currently building https://www.playskan.com 
 
 - 🏠 Personal website: https://www.henrihapponen.com
 

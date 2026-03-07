@@ -2,7 +2,7 @@
 
 <br/>
 
-<h3 align="center">Data Engineer @ Expedia</h3>
+<h3 align="center">Engineer @ Spotify</h3>
 
 <br/>
 
